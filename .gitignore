@@ -1,6 +1,7 @@
 # Project environment files
 conda/
 *.sif
+nobackup/
 
 # Nextflow files
 .nextflow*
